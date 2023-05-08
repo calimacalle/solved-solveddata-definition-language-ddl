@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solveddata-definition-language-ddl
+<br>
+Using the model you defined in Week Two, provide the Data Definition Language (DDL) needed to create tables, attributes, primary and foreign key constraints, any other constraints needed on a single attribute or across attributes to ensure only valid data is entered, and indexes or other structures needed to make the performance adequate for the common and urgent operations.Write the SQL code to perform each of the common and urgent activities. Explain how you expect it to use the defined structures efficiently.Describe what tools would be available in a commonly used database to determine if the database is following the execution plan you envision.
